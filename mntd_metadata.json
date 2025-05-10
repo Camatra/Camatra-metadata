@@ -1,0 +1,15 @@
+{
+  "name": "Camatra",
+  "symbol": "CMAT",
+  "description": "Built to last, Camatra is a digital asset for a new economy — limited in supply, rewarded by loyalty, and backed by purpose.",
+  "image": "https://raw.githubusercontent.com/Camatra/Camatra-metadata/main/camatra-logo.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "DLWg3mEFnx2dVd3p3ummKHGYxDd6rf4N63fmHXkuCupo",
+        "share": 100
+      }
+    ]
+  }
+}
