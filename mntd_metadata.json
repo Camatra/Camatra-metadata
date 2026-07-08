@@ -1,15 +1,6 @@
 {
   "name": "Camatra",
   "symbol": "CMAT",
-  "description": "Built to last, Camatra is a digital asset for a new economy — limited in supply, rewarded by loyalty, and backed by purpose.",
-  "image": "https://raw.githubusercontent.com/Camatra/Camatra-metadata/main/camatra-logo.png",
-  "properties": {
-    "category": "image",
-    "creators": [
-      {
-        "address": "AdmMVYPmgYJF1ks86nxcLZRQEh68KGtPqDjn5BCkuhCc",
-        "share": 100
-      }
-    ]
-  }
+  "description": "28,777,777 CMAT. Fixed forever — no new mints, no freezes, no fine print. Camatra is a digital asset built in public: wallets published, decisions on-chain, progress you can verify instead of promises. Built to last, rewarded by loyalty. Holding CMAT is following the build.",
+  "image": "https://raw.githubusercontent.com/Camatra/Camatra-metadata/main/camatra-logo.png"
 }
